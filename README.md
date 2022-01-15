@@ -17,6 +17,7 @@ Toujours à la recherche de nouveaux exploits à accomplir, vous décidez de par
 ### 1.a Résolution manuelle
 
 Commencez par trouver ce qui vous semble être le plus court chemin sans technique particulière. Notez votre réponse.
+Bordeaux -> Orléans -> Paris -> Strasbourg
 
 ### 1.b Algorithme de Dijkstra
 
@@ -25,6 +26,8 @@ Sans l'implémenter pour le moment, trouvez le plus court chemin en utilisant ma
 Notez chaque étape de votre raisonnement sur une feuille ou un document texte pour bien vous familiariser avec l'algorithme.
 
 Comparez avec votre réponse précédente.
+
+Bordeaux -> Orléans -> Paris -> Strasbourg
 
 ### 1.c Implémentation
 
@@ -157,6 +160,7 @@ La valeur est le temps qu'il faudrait à un cycliste pédalant à 16km/h pour pa
 ### 2.a Résolution
 
 En utilisant ces heuristiques, résolvez "manuellement" (sur une feuille ou un document texte) le trajet Bordeaux -> Strasbourg.
+Bordeaux -> Orléans -> Dijon -> Strasbourg
 
 **Important** : l'algorithme s'arrête dès qu'une solution est trouvée. Ce n'est pas nécessairement la meilleure, mais *souvent* l'une des meilleures.
 
